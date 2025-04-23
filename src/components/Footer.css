@@ -1,0 +1,20 @@
+/* Footer.css */
+.footer {
+    background-color: rgb(63, 133, 156);
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    margin-top: 10px;
+  }
+  
+  .footer-links i {
+    font-size: 20px;
+  }
+  

@@ -1,0 +1,21 @@
+/* Header.css */
+.header {
+    /* background-image: url('../assets/images/me.jpg'); */
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .header-content h1 {
+    font-size: 40px;
+    color: rgb(63, 133, 156);
+  }
+  
+  .header-content p {
+    font-size: 20px;
+  }
+  
